@@ -1,16 +1,14 @@
 {
     "name": "cookie",
     "description": "Provides utilities for dealing with cookies.",
-    "url": "https://github.com/alipay/arale/tree/master/lib/cookie",
     "keywords": [ "util" ],
     "author": "Frank Wang <lifesinger@gmail.com>",
     "version": "1.0.2",
 
-    "files": [ "./src/cookie.js" ],
-    "src": "http://aralejs.org/dist/cookie/{{version}}/cookie-debug.js",
-    "min": "http://aralejs.org/dist/cookie/{{version}}/cookie.js",
-
-    "dist": {
-        "cookie.js": ["default"]
-    }
+    "output": {
+        "cookie.js": ["cookie.js"]
+    },
+    "tests": [
+        "cookie"
+    ]
 }
