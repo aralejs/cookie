@@ -8,7 +8,7 @@
 
 ## 模块依赖
 
- - [seajs](seajs/README.md)
+- seajs
 
 
 ## 使用说明
@@ -85,11 +85,6 @@ define(function() {
     });
 });
 ````
-
-
-## 测试用例
-
-- <http://aralejs.org/lib/cookie/tests/runner.html>
 
 
 ## 交流讨论
