@@ -1,6 +1,6 @@
 {
     "name": "cookie",
-    "description": "Provides utilities for dealing with cookies.",
+    "description": "提供 Cookie 操作方法。",
     "tag": "utility",
     "keywords": [ "util" ],
     "author": "Frank Wang <lifesinger@gmail.com>",

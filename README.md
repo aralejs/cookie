@@ -5,12 +5,6 @@
 
 ---
 
-
-## 模块依赖
-
-- seajs
-
-
 ## 使用说明
 
 
@@ -86,9 +80,3 @@ define(function() {
 });
 ````
 
-
-## 交流讨论
-
-欢迎创建
-[GitHub Issue](https://github.com/alipay/arale/issues/new)
-来提交反馈。
