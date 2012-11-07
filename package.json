@@ -1,9 +1,18 @@
 {
     "name": "cookie",
+    "root": "arale",
     "description": "提供 Cookie 操作方法。",
     "tag": "utility",
     "keywords": [ "util" ],
     "author": "Frank Wang <lifesinger@gmail.com>",
+    "homepage": "http://aralejs.org/color",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aralejs/color"
+    },
+    "bugs": {
+        "url": "https://github.com/aralejs/color/issues"
+    },
     "version": "1.0.2",
     "output": {
         "cookie.js": "."
