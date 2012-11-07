@@ -1,20 +1,16 @@
 
 # Cookie
 
+---
+
 提供 Cookie 操作方法。
 
 ---
 
-
-## 模块依赖
-
-- seajs
-
-
 ## 使用说明
 
 
-### get `Cookie.get(name, [options])`
+### get *Cookie.get(name, [options])*
 
 获取 cookie 值。`options` 参数可选，取值如下：
 
@@ -44,7 +40,7 @@ define(function() {
 ```
 
 
-### set `Cookie.set(name, value, [options])`
+### set *Cookie.set(name, value, [options])*
 
 设置 cookie 值。参数 `options` 可选，可以有以下属性：`path`（字符串）、`domain`（字符串）、
 `expires`（数值或日期对象）、`raw`（布尔值）。当 `raw` 为真值时，在设置 cookie 值时，不会进行
@@ -67,7 +63,7 @@ define(function() {
 ````
 
 
-### remove `Cookie.remove(name, [options])`
+### remove *Cookie.remove(name, [options])*
 
 移除指定的 cookie.
 
@@ -86,9 +82,3 @@ define(function() {
 });
 ````
 
-
-## 交流讨论
-
-欢迎创建
-[GitHub Issue](https://github.com/alipay/arale/issues/new)
-来提交反馈。
