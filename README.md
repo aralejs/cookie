@@ -3,6 +3,9 @@
 
 ---
 
+[![Build Status](https://secure.travis-ci.org/aralejs/cookie.png)](https://travis-ci.org/aralejs/cookie)
+
+
 提供 Cookie 操作方法。
 
 ---
