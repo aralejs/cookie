@@ -5,13 +5,13 @@
     "tag": "utility",
     "keywords": [ "util" ],
     "author": "Frank Wang <lifesinger@gmail.com>",
-    "homepage": "http://aralejs.org/color",
+    "homepage": "http://aralejs.org/cookie/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/aralejs/color"
+        "url": "https://github.com/aralejs/cookie"
     },
     "bugs": {
-        "url": "https://github.com/aralejs/color/issues"
+        "url": "https://github.com/aralejs/cookie/issues"
     },
     "version": "1.0.2",
     "output": {
