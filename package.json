@@ -1,6 +1,6 @@
 {
   "name": "arale-cookie",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "提供 Cookie 操作方法。",
   "keywords": [
     "utility"
