@@ -3,6 +3,7 @@
 
 ---
 
+[![spm package](http://spmjs.io/badge/arale-cookie)](http://spmjs.io/package/arale-cookie)
 [![Build Status](https://secure.travis-ci.org/aralejs/cookie.png)](https://travis-ci.org/aralejs/cookie)
 [![Coverage Status](https://coveralls.io/repos/aralejs/cookie/badge.png?branch=master)](https://coveralls.io/r/aralejs/cookie)
 
