@@ -23,9 +23,6 @@ describe('Cookie', function() {
         it('should return undefined for non-existing name.', function() {
 
             expect(Cookie.get('_sea_test_none')).to.equal(undefined);
-            expect(function(){ Cookie.get(true); }).to.throwError();
-            expect(function(){ Cookie.get({}); }).to.throwError();
-            expect(function(){ Cookie.get(null); }).to.throwError();
 
         });
 
